@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/opx-docs",
+  "packageVersion": "1.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/opx-docs",
+  "usageRepository": "https://github.com/x12i-sdk/opx",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:03:53.905337+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "261c08581ec8db57dd6a1b7334bacce629083e9af1db52c3fcbbad3e0596ced9",
+    "manifestSha256": "de3c55ac500e9b3e0aaa479a1fe3c4f6dfd31e6d8ae99f10711c183718cc2782"
+  },
+  "npmPackages": [
+    "@x12i/opx-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
